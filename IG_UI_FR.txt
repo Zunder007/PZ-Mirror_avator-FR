@@ -1,0 +1,8 @@
+IGUI_FR = {
+
+    IGUI_shuruyanse = "Couleur de l'arrière plan R,G,B,A",
+    IGUI_yingyong = "Appliquer la couleur",
+    IGUI_qiehuanshijiao = "Caméra",
+    IGUI_suofang = "Échelle",
+
+}
