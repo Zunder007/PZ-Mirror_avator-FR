@@ -1,0 +1,3 @@
+Recipes_FR = {
+	Recipe_Look_at_Mirror = "Se regarder",
+}
